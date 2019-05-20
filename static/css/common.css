@@ -54,6 +54,19 @@ a:visited {
     color: #5779be;
 }
 
+a[href^="http://"],
+a[href^="https://"] {
+    display: inline-block;
+    padding-left: 16px;
+    background: url('/img/logo.png') left/contain no-repeat;
+    color: red;
+}
+
+a[href^="http://"]:visited,
+a[href^="https://"]:visited {
+    color: red;
+}
+
 .container {
     margin: 4px;
     display: flex;
