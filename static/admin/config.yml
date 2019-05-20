@@ -36,7 +36,7 @@ collections:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
   - label: "Translate/Patch"
-    name: "translate/patch"
+    name: "translate-patch"
     folder: "content/translate/patch"
     create: true
     slug: "{{slug}}"
@@ -45,7 +45,7 @@ collections:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
   - label: "Translate/News"
-    name: "translate/news"
+    name: "translate-news"
     folder: "content/translate/news"
     create: true
     slug: "{{slug}}"
@@ -54,7 +54,7 @@ collections:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
   - label: "Translate/Reddit"
-    name: "translate/reddit"
+    name: "translate-reddit"
     folder: "content/translate/reddit"
     create: true
     slug: "{{slug}}"
