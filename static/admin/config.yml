@@ -29,7 +29,7 @@ collections:
   - label: "Translate"
     name: "translate"
     folder: "content/translate"
-    create: false
+    create: true
     slug: "{{slug}}"
     preview_path: "/translate/{{slug}}"
     fields:
@@ -38,7 +38,7 @@ collections:
   - label: "Translate/Patch"
     name: "translate/patch"
     folder: "content/translate/patch"
-    create: false
+    create: true
     slug: "{{slug}}"
     preview_path: "/translate/patch/{{slug}}"
     fields:
@@ -47,7 +47,7 @@ collections:
   - label: "Translate/News"
     name: "translate/news"
     folder: "content/translate/news"
-    create: false
+    create: true
     slug: "{{slug}}"
     preview_path: "/translate/news/{{slug}}"
     fields:
@@ -56,7 +56,7 @@ collections:
   - label: "Translate/Reddit"
     name: "translate/reddit"
     folder: "content/translate/reddit"
-    create: false
+    create: true
     slug: "{{slug}}"
     preview_path: "/translate/reddit/{{slug}}"
     fields:
