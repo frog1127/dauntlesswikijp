@@ -14,6 +14,12 @@ console.log(a)
 console.log(a)
 </script>
 
+にょき[^a]
+[^a]: いえい
+
+にょき[^b]
+[^b]: いえい
+
 {{% fold_label %}}
 # 折りたたみタイトル
 {{% /fold_label %}}
