@@ -1,5 +1,5 @@
 ---
-title: new-audio-settings-imcoming
+title: '[和訳] 新しいオーディオ設定'
 ---
 このドキュメントは公式のredditへの投稿(<https://www.reddit.com/r/dauntless/comments/br25km/new_audio_settings_incoming>)を和訳したものです。
 
