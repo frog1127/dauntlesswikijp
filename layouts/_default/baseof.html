@@ -41,11 +41,11 @@
         <span>{{ .Title }}</span>
         {{ end }}
       </header>
-      <div>
+      <div class="main-content">
         {{ block "main" . }}{{ end }}
+        <hr />
+        <p>最終更新日{{ .Lastmod }}</p>
       </div>
-      <hr />
-      <p>最終更新日{{ .Lastmod }}</p>
     </div>
   </div>
   <footer class="footer">

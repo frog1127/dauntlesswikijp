@@ -3,7 +3,7 @@
     box-shadow: 0 2px 5px rgba(0,0,0,0.26)
 }
 
-.main .main-header {
+.main-header {
     font-size: 16px;
     background-color: #121616;
     height: 24px;
@@ -13,22 +13,179 @@
     font-weight: bold;
 }
 
-.main .main-content {
+.main-content {
     padding: 8px;
+    line-height: 1.5;
+    font-size: 16px;
+    word-wrap: break-word;
+}
+
+.main-content strong {
+    font-weight: bolder;
+}
+
+.main-content em {
+    font-style: italic;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+    font-weight: 600;
+    line-height: 1.25;
+    margin-bottom: 16px;
+    margin-top: 24px;
+}
+
+.main-content h1,
+.main-content h2 {
+    border-bottom: 1px solid #121616;
+    padding-bottom: .3em;
+}
+
+.main-content h1 {
+    font-size: 2em;
+    margin: .67em 0;
+}
+
+.main-content h2 {
+    font-size: 1.5em;
+}
+
+.main-content h3 {
+    font-size: 1.25em;
+}
+
+.main-content h4 {
+    font-size: 1em;
+}
+
+.main-content h5 {
+    font-size: .875em;
+}
+
+.main-content h6 {
+    font-size: .85em;
+    color: #c2c1bb;
+}
+
+.main-content p,
+.main-content ol,
+.main-content ul,
+.main-content dl,
+.main-content pre,
+.main-content table,
+.main-content details {
+    margin-bottom: 16px;
+    margin-top: 0;
+}
+
+.main-content ol,
+.main-content ul {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    padding-inline-start: 40px;
+    padding-left: 2em;
+}
+
+.main-content ol {
+    list-style-type: decimal;
+}
+
+.main-content ul {
+    list-style-type: disc;
+}
+
+.main-content li {
+    display: list-item;
+}
+
+.main-content li+li {
+    margin-top: .25em;
+}
+
+.main-content code,
+.main-content pre {
+    font-family: monospace;
+    font-size: 1em;
+}
+
+.main-content code {
+    background-color: #121616;
+    border-radius: 3px;
+    font-size: 85%;
+    margin: 0;
+    padding: .2em .4em;
+}
+
+.main-content pre {
+    white-space: pre;
+    display: block;
+    word-wrap: normal;
+    background-color: #121616;
+    border-radius: 3px;
+    font-size: 85%;
+    line-height: 1.45;
+    overflow: auto;
+    padding: 16px;
+}
+
+.main-content pre code {
+    background: transparent;
+    font-size: 100%;
+    white-space: pre;
+    word-break: normal;
+    border: 0;
+    display: inline;
+    line-height: inherit;
+    margin: 0;
+    overflow: visible;
+    padding: 0;
+}
+
+.main-content hr {
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #121616;
+    height: 0;
+    margin: 15px 0;
+    overflow: hidden;
+}
+
+.main-content hr:before {
+    content: "";
+    display: table;
+}
+
+.main-content hr:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.main table {
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 
 .main td,
 .main th {
     border: 1px solid #121616;
-    padding: 8px;
+    padding: 6px 13px;
 }
 
 .main tr:nth-child(even){
-    background-color: #1E2222;
+    background-color: #181D1D;
 }
 
 .main tr:hover {
-    background-color: #181D1D;
+    background-color: #121616;
 }
 
 .main th {

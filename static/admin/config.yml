@@ -8,13 +8,21 @@ media_folder: "static/img"
 public_folder: "/img"
 
 collections:
-  - label: "Page"
-    name: "page"
+  - label: "Basic"
+    name: "basic"
     folder: "content/basic"
     create: true
     slug: "{{slug}}"
     preview_path: "/basic/{{slug}}"
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
-      - {label: "公開日", name: "date", widget: "datetime"}
+      - {label: "本文", name: "body", widget: "markdown"}
+  - label: "Meta"
+    name: "meta"
+    folder: "content/meta"
+    create: false
+    slug: "{{slug}}"
+    preview_path: "/meta/{{slug}}"
+    fields:
+      - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}

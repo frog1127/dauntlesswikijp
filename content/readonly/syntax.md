@@ -1,8 +1,9 @@
 ---
-title: "Sandbox"
+title: "Syntax"
 ---
 
-# おすなば
+# Wikiシンタックス
+おおよそmarkdownです。
 
 ## ヘッダー
 
