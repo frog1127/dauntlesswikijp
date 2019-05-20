@@ -10,7 +10,7 @@ public_folder: "/public"
 collections:
   - label: "Page"
     name: "page"
-    folder: "content"
+    folder: "content/basic"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
