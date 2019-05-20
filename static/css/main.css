@@ -16,3 +16,25 @@
 .main .main-content {
     padding: 8px;
 }
+
+.main td,
+.main th {
+    border: 1px solid #121616;
+    padding: 8px;
+}
+
+.main tr:nth-child(even){
+    background-color: #1E2222;
+}
+
+.main tr:hover {
+    background-color: #181D1D;
+}
+
+.main th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #121616;
+    color: #D19038;
+}
