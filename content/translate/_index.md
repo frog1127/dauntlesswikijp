@@ -1,4 +1,4 @@
 ---
-title: _index
+title: 翻訳
 ---
 wip
