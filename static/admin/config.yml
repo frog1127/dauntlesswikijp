@@ -13,6 +13,7 @@ collections:
     folder: "content/basic"
     create: true
     slug: "{{slug}}"
+    preview_path: "/basic/{{slug}}"
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "公開日", name: "date", widget: "datetime"}
