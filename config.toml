@@ -4,3 +4,7 @@ defaultContentLanguage = "ja"
 title = "Dauntless Wiki"
 hasCJKLanguage = true
 enableEmoji = true
+enableGitInfo = true
+
+[blackfriday]
+skipHTML = true
