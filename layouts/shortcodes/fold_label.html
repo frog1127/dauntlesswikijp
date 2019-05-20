@@ -1,0 +1,4 @@
+<div class="fold">
+  {{ $suffix := md5 .Position }}
+  <label for="fold_{{ $suffix }}">{{ .Inner }}</label>
+  <input type="checkbox" id="fold_{{ $suffix }}"/>

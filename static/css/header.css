@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 12px 8px;
+    background-color: #121616;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+}
+
+.header-title {
+    display: flex;
+    align-items: center;
+    text-decoration: none !important;
+}
+
+.header-title span {
+    text-wrap: none;
+    font-weight: bold;
+    font-size: 32px;
+    color: #EFEEE8;
+}
+
+.header-title-logo {
+    height: 42px;
+}

@@ -1,0 +1,25 @@
+.fold {
+}
+
+.fold label {
+    cursor: pointer;
+}
+
+.fold label:hover {
+}
+
+.fold input {
+    display: none;
+}
+
+.fold .fold_in {
+    height: 0;
+    padding: 0;
+    overflow: hidden;
+    opacity: 0;
+}
+
+.fold input:checked ~ .fold_in {
+    height: auto;
+    opacity: 1;
+}

@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    align-items: center;
+    padding: 12px 8px;
+    margin-top: auto;
+    background-color: #121616;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.26);
+}
+
+.footer-title {
+    display: flex;
+    align-items: center;
+    text-wrap: none;
+    text-decoration-line: none;
+    font-weight: bold;
+    font-size: 32px;
+    color: #EFEEE8;
+}
+
+.footer-title-logo {
+    height: 42px;
+}

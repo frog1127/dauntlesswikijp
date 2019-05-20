@@ -1,0 +1,70 @@
+#color-black-back {
+    color: #181D1D;
+}
+#color-black-front {
+    color: #1E2222;
+}
+#color-black-accent {
+    color: #121616;
+}
+#color-white {
+    color: #EFEEE8;
+}
+#color-main{
+    color: #7DB1BE;
+}
+#color-main2 {
+    color: #5779be;
+}
+#color-accent {
+    color: #D19038;
+}
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: normal;
+    background-color: #181D1D;
+    box-sizing: border-box;
+    max-width: 1440px;
+    margin: 0 auto;
+    color: #EFEEE8;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+a {
+    color: #7DB1BE;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: #5779be;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #5779be;
+}
+
+.container {
+    margin: 4px;
+    display: flex;
+}
+
+.container .sidebar {
+    margin: 4px;
+    width: 200px;
+}
+
+.container .main {
+    margin: 4px;
+    width: 100%;
+}

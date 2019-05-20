@@ -1,0 +1,6 @@
+baseURL = "https://dauntlesswikijp.llism.net/"
+languageCode = "ja"
+defaultContentLanguage = "ja"
+title = "Dauntless Wiki"
+hasCJKLanguage = true
+enableEmoji = true
