@@ -26,3 +26,39 @@ collections:
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
+  - label: "Translate"
+    name: "translate"
+    folder: "content/translate"
+    create: false
+    slug: "{{slug}}"
+    preview_path: "/translate/{{slug}}"
+    fields:
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "本文", name: "body", widget: "markdown"}
+  - label: "Translate/Patch"
+    name: "translate/patch"
+    folder: "content/translate/patch"
+    create: false
+    slug: "{{slug}}"
+    preview_path: "/translate/patch/{{slug}}"
+    fields:
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "本文", name: "body", widget: "markdown"}
+  - label: "Translate/News"
+    name: "translate/news"
+    folder: "content/translate/news"
+    create: false
+    slug: "{{slug}}"
+    preview_path: "/translate/news/{{slug}}"
+    fields:
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "本文", name: "body", widget: "markdown"}
+  - label: "Translate/Reddit"
+    name: "translate/reddit"
+    folder: "content/translate/reddit"
+    create: false
+    slug: "{{slug}}"
+    preview_path: "/translate/reddit/{{slug}}"
+    fields:
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "本文", name: "body", widget: "markdown"}
