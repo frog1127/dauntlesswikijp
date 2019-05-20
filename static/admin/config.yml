@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: lill-azk/dauntlesswikijp
+  name: git-gateway
   branch: master
 
 publish_mode: editorial_workflow
