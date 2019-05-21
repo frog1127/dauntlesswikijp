@@ -5,6 +5,7 @@ title = "Dauntless 日本語 Wiki"
 hasCJKLanguage = true
 enableEmoji = true
 enableGitInfo = true
+googleAnalytics = "UA-131770768-2"
 
 [blackfriday]
 skipHTML = true
