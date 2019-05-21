@@ -169,6 +169,10 @@
     display: table;
 }
 
+.main-content img {
+    width: 600px;
+}
+
 .main table {
     border-collapse: collapse;
     border-spacing: 0;
