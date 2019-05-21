@@ -1,5 +1,5 @@
 ---
-title: アカウントリンクガイド
+title: '[和訳] アカウントリンクガイド'
 ---
 <https://playdauntless.com/news/account-linking-guide>
 
