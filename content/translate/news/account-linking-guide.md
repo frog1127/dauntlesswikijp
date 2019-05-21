@@ -2,6 +2,7 @@
 title: アカウントリンクガイド
 ---
 <https://playdauntless.com/news/account-linking-guide>
+
 このドキュメントは公式サイトの投稿を和訳したものです。
 
 # アカウントリンクガイド
