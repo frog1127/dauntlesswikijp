@@ -18,7 +18,7 @@ title: アカウントリンクガイド
 * [DauntlessをPCでオープンベータで遊んでいてアクティブなDauntlessアカウントがあり、またEpic Gamesアカウントを持っています。](#シナリオ1)
 * [DauntlessをPCでオープンベータで遊んでいてアクティブなDauntlessアカウントがますが、Epic Gamesアカウントは持っていません。](#シナリオ2)
 * [Dauntlessのアカウントは持っていませんが、Epic Gamesアカウントは持っています。](#シナリオ3)
-* \[DauntlessのアカウントもEpic Gamesアカウントも持っていません。]
+* [DauntlessのアカウントもEpic Gamesアカウントも持っていません。](#シナリオ4)
 
 ## シナリオ1
 
@@ -31,9 +31,9 @@ title: アカウントリンクガイド
 
 ### PlayStation 4 または Xbox One で遊ぶ場合…
 1. 各コンソールのストアから_Dauntless_をダウンロードして起動してください。
-2. タイトル画面で、「**ACTIVATE ACCOUNT**」をクリックしてください。
+2. タイトル画面で、「**ACTIVATE ACCOUNT**」を選択してください。
 3. 画面の指示に従ってXbox LiveあるいはPlayStationネットワークのアカウントをEpic Gamesアカウントにリンクしてください。(もし既にアカウントをリンクしてある場合、自動で接続されます。)
-4. タイトル画面で、「**LINK NOW**」をクリックしてください。**警告: この手順を飛ばさないでください。これがアカウントをリンクする最後のチャンスです。**その後、画面の指示に従ってアカウントをリンクしてください。
+4. タイトル画面で、「**LINK NOW**」を選択してください。**警告: この手順を飛ばさないでください。これがアカウントをリンクする最後のチャンスです。**その後、画面の指示に従ってアカウントをリンクしてください。
 
 ## シナリオ2
 **DauntlessをPCでオープンベータで遊んでいてアクティブなDauntlessアカウントがますが、Epic Gamesアカウントは持っていません。**
@@ -46,9 +46,9 @@ title: アカウントリンクガイド
 
 ### PlayStation 4 または Xbox One で遊ぶ場合…
 1. 各コンソールのストアから_Dauntless_をダウンロードして起動してください。
-2. タイトル画面で、「**ACTIVATE ACCOUNT**」をクリックしてください。
+2. タイトル画面で、「**ACTIVATE ACCOUNT**」を選択してください。
 3. 画面の指示に従ってXbox LiveあるいはPlayStationネットワークのアカウントを新しいEpic Gamesアカウントにリンクしてください。
-4. タイトル画面で、「**LINK NOW**」をクリックしてください。**警告: この手順を飛ばさないでください。これがアカウントをリンクする最後のチャンスです。**
+4. タイトル画面で、「**LINK NOW**」を選択してください。**警告: この手順を飛ばさないでください。これがアカウントをリンクする最後のチャンスです。**
 5. その後、画面の指示に従ってアカウントをリンクしてください。
 
 ## シナリオ3
@@ -61,21 +61,22 @@ title: アカウントリンクガイド
 
 ### PlayStation 4 または Xbox One で遊ぶ場合…
 1. 各コンソールのストアから_Dauntless_をダウンロードして起動してください。
-2. タイトル画面で、「**ACTIVATE ACCOUNT**」をクリックしてください。
+2. タイトル画面で、「**ACTIVATE ACCOUNT**」を選択してください。
 3. 画面の指示に従ってXbox LiveあるいはPlayStationネットワークのアカウントをEpic Gamesアカウントにリンクしてください。(もし既にアカウントをリンクしてある場合、自動で接続されます。)
-2. タイトル画面で、「**I'M A NEW PLAYER**」をクリックしてください。
+4. 次の画面で、「**I'M A NEW PLAYER**」を選択してください。
+5. 画面の指示に従ってログインし、ゲームを始めてください。
+
+# シナリオ4
+**DauntlessのアカウントもEpic Gamesアカウントも持っていません。**
+
+### PCで遊ぶ場合…
+1. <epicgames.com>でEpic Gamesアカウントを作ってください。
+2. _Dauntless_をEpic Gamesストアからダウンロードして起動してください。
 3. 画面の指示に従ってログインし、ゲームを始めてください。
 
-SCENARIO 4
-I DO NOT have a Dauntless account and I DO NOT have an Epic Games account.
-
-IF YOU ARE PLAYING ON PC …
-Create an Epic Games account at epicgames.com.
-Download and launch Dauntless from the Epic Games store.
-Follow the prompts on your screen to log in and start playing.
-IF YOU ARE PLAYING ON XBOX ONE OR PLAYSTATION 4 …
-Download and launch Dauntless from your console’s store.
-On the title screen, select ACTIVATE ACCOUNT.
-Follow the prompts on your screen to link your PlayStation Network or Xbox Live account to a new Epic Games account.
-On the next screen, select I’M A NEW PLAYER.
-Follow the prompts on your screen to log in and start playing.
+### PlayStation 4 または Xbox One で遊ぶ場合…
+1. 各コンソールのストアから_Dauntless_をダウンロードして起動してください。
+2. タイトル画面で、「**ACTIVATE ACCOUNT**」を選択してください。
+3. 画面の指示に従ってXbox LiveあるいはPlayStationネットワークのアカウントを新しいEpic Gamesアカウントにリンクしてください。
+4. 次の画面で、「**I'M A NEW PLAYER**」を選択してください。
+5. 画面の指示に従ってログインし、ゲームを始めてください。
