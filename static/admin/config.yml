@@ -17,6 +17,15 @@ collections:
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
+  - label: "Data"
+    name: "data"
+    folder: "content/data"
+    create: true
+    slug: "{{slug}}"
+    preview_path: "/data/{{slug}}"
+    fields:
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "本文", name: "body", widget: "markdown"}
   - label: "Meta"
     name: "meta"
     folder: "content/meta"
