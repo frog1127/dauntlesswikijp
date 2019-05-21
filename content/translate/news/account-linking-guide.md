@@ -9,7 +9,7 @@ title: アカウントリンクガイド
 5月21日以降にDauntlessへログインする前に以下の説明をよく読んで下さい。
 初めてログインしたときにアカウントを正しくリンクしなければ、オープンベータの進行状況が全て失われる可能性があります。
 もしアカウントリンク手順に関して疑問があれば、[Twitter](https://twitter.com/playdauntless)、[Reddit](https://reddit.com/r/dauntless)、Discordで質問してください。
-<support.playdauntless.com>でサポートに連絡することもできます。
+[support.playdauntless.com](https://support.playdauntless.com)でサポートに連絡することもできます。
 
 ## シナリオを選ぶ
 
