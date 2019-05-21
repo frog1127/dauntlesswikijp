@@ -5,7 +5,7 @@ title: "Syntax"
 # Wikiシンタックス
 おおよそmarkdownです。
 
-## ヘッダー
+# ヘッダー
 
 ```
 # テスト会場
@@ -38,7 +38,7 @@ title: "Syntax"
 
 普通の文字
 
-## 装飾
+# 装飾
 
 ```
 *斜体* *naname* は *アスタリスク* または _アンダースコア_ だけど日本語フォントに使うべきじゃないかも
@@ -54,7 +54,7 @@ title: "Syntax"
 
 取り消し線はチルダ2つ ~~何もないよ~~
 
-## リスト
+# リスト
 
 スペースをわかりやすくするため、ドット `˙` を入れている。実際のコードでは半角スペースとすること
 ```
@@ -89,7 +89,7 @@ title: "Syntax"
 - またはマイナス
 + あるいはプラス
 
-## リンク
+# リンク
 
 ```
 [普通の外部リンク](https://playdauntless.com)
@@ -133,7 +133,7 @@ https://playdauntless.com あるいは <https://playdauntless.com> のように�
 [1]: https://playdauntless.com
 [そのままリンクに]: https://playdauntless.com
 
-## 画像
+# 画像
 
 ```
 ![ロゴ画像](/img/logo.png "これはロゴです")
@@ -149,7 +149,7 @@ https://playdauntless.com あるいは <https://playdauntless.com> のように�
 
 [logo]: /img/logo.png "参照でのロゴ"
 
-## 引用・クォート
+# 引用・クォート
 ```
 `それっぽいところ` を囲う
 ```
@@ -172,7 +172,7 @@ Name    | Age
 Bob    | 27
 Alice   | 23
 
-## 脚注
+# 脚注
 にょき[^a]
 [^a]: いえい
 

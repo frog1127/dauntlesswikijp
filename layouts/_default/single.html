@@ -1,3 +1,12 @@
 {{ define "main" }}
+{{ if (gt .WordCount 400) }}
+<aside class="main-toc">
+  <header>
+    <h2>目次</h2>
+  </header>
+  {{ .TableOfContents }}
+</aside>
+<hr />
+{{ end }}
 {{- .Content -}}
 {{ end }}
