@@ -1,5 +1,5 @@
 ---
-title: War Pike ガイド
+title: War Pike ガイド　へんしゅうちゅう・・・
 ---
 # Woundについて
 
