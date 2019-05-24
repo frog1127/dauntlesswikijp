@@ -9,4 +9,4 @@ googleAnalytics = "UA-131770768-2"
 
 [blackfriday]
 skipHTML = true
-hardLineBreak = true
+extensions = ["hardLineBreak"]
