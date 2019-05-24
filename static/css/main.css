@@ -206,3 +206,8 @@
     background-color: #121616;
     color: #D19038;
 }
+
+.main-toc ul {
+    margin-block-start: 0.25em;
+    margin-block-end: 0.25em;
+}
