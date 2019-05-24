@@ -72,9 +72,11 @@ a[href^="https://"]:not([href*="dauntlesswikijp.llism.net"]) {
 .container .sidebar {
     margin: 4px;
     width: 200px;
+    height: fit-content;
 }
 
 .container .main {
     margin: 4px;
     width: 100%;
+    height: fit-content;
 }
