@@ -1,4 +1,4 @@
 ---
-title: ostian-repeaters
+title: オスティアンリピーター（Ostian Repeaters）ガイド
 ---
 WIP
