@@ -1,5 +1,5 @@
 ---
-title: sword
+title: ソード（Sword）
 ---
 ソード（Sword）はバランスの取れたスタンダードな武器。
 詳細なデータは[データページ](/data/sword)へ。
