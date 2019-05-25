@@ -50,7 +50,7 @@ Xbox: XXXX
 ## Triple Elements
 PC: 左左左-(待)-右右
 PS4: □□□-(待)-△△
-Xbox: XXX-(待-)YY
+Xbox: XXX-(待)-YY
 最後の2発は高威力だがスタミナ消費で隙も大きい。
 [Quad Cross](#Quad Cross)中に余裕があったら入れよう。
 
