@@ -37,7 +37,7 @@ Xbox: (走りながら)Y
 走りながら発動する。弾とスタミナを消費して前方に飛び上がる。
 後方に爆発が発生し、ダメージを与える。
 
-### Double Jump
+## Double Jump
 PC: (Hammer Jump中に)右
 PS4: (Hammer Jump中に)△
 Xbox: (Hammer Jump中に)Y
@@ -45,7 +45,7 @@ Xbox: (Hammer Jump中に)Y
 Hammer Jump直後にもう一度入力すると、さらに前方に飛ぶ。
 Hammer Jumpと同様の爆発をもう一度起こす。
 
-### Aerial Strike
+## Aerial Strike
 PC: (Hammer Jump中に)左
 PS4: (Hammer Jump中に)□
 Xbox: (Hammer Jump中に)X
