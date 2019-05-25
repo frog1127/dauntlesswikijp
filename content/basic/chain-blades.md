@@ -1,4 +1,4 @@
 ---
-title: chain-blades
+title: チェインブレード（Chain Blades）ガイド
 ---
 WIP
