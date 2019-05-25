@@ -83,6 +83,10 @@
     margin-top: 0;
 }
 
+.main-content p {
+    margin-left: .25em;
+}
+
 .main-content ol,
 .main-content ul {
     display: block;
