@@ -53,15 +53,15 @@ PS4: □□□-(待)-△△
 Xbox: XXX-(待)-YY
 
 最後の2発は高威力だがスタミナ消費で隙も大きい。
-[Quad Cross](#Quad Cross)中に余裕があったら入れよう。
+[Quad Cross](#quad-cross)中に余裕があったら入れよう。
 
 ## Rising Elements
 PC: 右右右
 PS4: △△△
 Xbox: YYY
 
-[Quad Cross](#Quad Cross)よりDPSが高いものの、やや振りが遅い。
-特殊ゲージは[Quad Cross](#Quad Cross)よりたまりづらい。
+[Quad Cross](#quad-cross)よりDPSが高いものの、やや振りが遅い。
+特殊ゲージは[Quad Cross](#quad-cross)よりたまりづらい。
 スタミナ消費は無い。
 
 ## Repeating Elements
