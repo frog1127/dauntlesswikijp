@@ -1,4 +1,4 @@
 ---
-title: war-pike
+title: ウォーパイク（War Pike）ガイド
 ---
 WIP
