@@ -1,4 +1,4 @@
 ---
-title: axe
+title: アックス（Axe）ガイド
 ---
 WIP
