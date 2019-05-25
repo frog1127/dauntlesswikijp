@@ -1,9 +1,7 @@
 ---
-title: War Pike ガイド　編集中...
+title: War Pike ガイド
 ---
 # 結論
-
-\-----
 
 メーターをmax付近で維持しつつ、Savageryを+６にして、Woundするまで同じ箇所を攻撃し続け、Woundしたらその部位が壊れるまで攻撃し続ける。
 
