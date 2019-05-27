@@ -7,9 +7,6 @@ publish_mode: editorial_workflow
 media_folder: "static/img"
 public_folder: "/img"
 
-editor:
-  preview: false
-
 collections:
   - label: "Basic"
     name: "basic"
@@ -20,6 +17,8 @@ collections:
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
+    editor:
+      preview: false
   - label: "Data"
     name: "data"
     folder: "content/data"
@@ -29,6 +28,8 @@ collections:
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
+    editor:
+      preview: false
   - label: "Guide"
     name: "guide"
     folder: "content/guide"
@@ -38,6 +39,8 @@ collections:
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
+    editor:
+      preview: false
   - label: "Meta"
     name: "meta"
     folder: "content/meta"
@@ -47,6 +50,8 @@ collections:
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
+    editor:
+      preview: false
   - label: "Translate"
     name: "translate"
     folder: "content/translate"
@@ -56,6 +61,8 @@ collections:
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
+    editor:
+      preview: false
   - label: "Translate/Patch"
     name: "translate-patch"
     folder: "content/translate/patch"
@@ -65,6 +72,8 @@ collections:
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
+    editor:
+      preview: false
   - label: "Translate/News"
     name: "translate-news"
     folder: "content/translate/news"
@@ -74,6 +83,8 @@ collections:
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
+    editor:
+      preview: false
   - label: "Translate/Reddit"
     name: "translate-reddit"
     folder: "content/translate/reddit"
@@ -83,3 +94,5 @@ collections:
     fields:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "本文", name: "body", widget: "markdown"}
+    editor:
+      preview: false
