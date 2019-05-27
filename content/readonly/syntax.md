@@ -162,13 +162,13 @@ https://playdauntless.com あるいは <https://playdauntless.com> のように�
 
 ```
 Name    | Age
---------|-----:
+--------|-----
 Bob     | 27
 Alice   | 23
 ```
 
 Name    | Age
---------|-----:
+--------|-----
 Bob    | 27
 Alice   | 23
 
