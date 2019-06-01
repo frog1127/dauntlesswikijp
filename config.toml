@@ -6,6 +6,7 @@ hasCJKLanguage = true
 enableEmoji = true
 enableGitInfo = true
 googleAnalytics = "UA-131770768-2"
+disqusShortname = "dauntlessri-ben-yu-wiki"
 
 [blackfriday]
 skipHTML = true
