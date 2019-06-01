@@ -21,7 +21,7 @@
 }
 
 .main-content strong {
-    font-weight: bolder;
+    font-weight: bold;
 }
 
 .main-content em {
@@ -34,7 +34,7 @@
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-    font-weight: 600;
+    font-weight: bold;
     line-height: 1.25;
     margin-bottom: 16px;
     margin-top: 24px;
