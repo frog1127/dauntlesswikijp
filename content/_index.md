@@ -19,6 +19,7 @@ OB 0.8.1
 - [Webサイト](https://playdauntless.com/ja/)
 - [コミュニティWiki](https://dauntless.gamepedia.com/Dauntless_Wiki)
 - [Subreddit](https://www.reddit.com/r/dauntless/)
+- [Discord - Dauntless Community](https://discord.gg/dauntless)
 - [Twitter @PlayDauntless](https://twitter.com/PlayDauntless)
 - [Twitchチャンネル](https://www.twitch.tv/playdauntless/)
 - [Epic Gamesストア](https://www.epicgames.com/store/ja/product/dauntless/)
