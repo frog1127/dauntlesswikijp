@@ -48,7 +48,10 @@
 
 .main-content h1 {
     font-size: 2em;
-    margin: .67em 0;
+    margin: .67em -8px;
+    padding-top: .3em;
+    padding-left: 8px;
+    background-color: #121616;
 }
 
 .main-content h2 {
