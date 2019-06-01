@@ -1,3 +1,7 @@
+---
+title: "トップページ"
+---
+
 # Dauntless日本語Wikiへようこそ
 当WikiはPhoenix開発・運営のアクションRPG[Dauntless](/basic/Dauntlessとは)の情報をまとめた日本語Wikiです。
 
