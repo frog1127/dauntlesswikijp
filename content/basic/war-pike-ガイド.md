@@ -1,5 +1,5 @@
 ---
-title: War Pike ガイド　詳細
+title: War Pike ガイド 詳細
 ---
 # 結論
 
