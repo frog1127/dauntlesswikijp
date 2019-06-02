@@ -1,6 +1,8 @@
 ---
 title: Dauntlessとは
 ---
+![ロゴ画像][top_embermane640_400.png]
+
 # Dauntlessとは
 
 公式サイト:https://playdauntless.com/
