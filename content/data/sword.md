@@ -30,4 +30,10 @@ Shrowd  | Verge of Night  | +80 Umbral  | +1~3 Cunning  | Power / Utility  | 体
 Koshai  | Sovereign's Torment  | None  | +1~3 Sharpened  | Power / Utility  | ベヒモス(生成したオブジェクト含む)に攻撃を当てずに6秒間待機(移動・素振りOK)すると、以降の4Hitに25%のボーナスダメージ。4発全てHitさせるとバフは一旦消えるが、4Hit以下に留めれば残弾は温存でき、温存中に再度6秒待機で4へ回復可能
 Riftstalker  | Stalker's Strike  | +80 Umbral  | +1~3 Wild Frenzy  | Technique / Utility  | ダメージを与えた際に確率(基礎ダメージに比例)でShadow Orbを作り出す。Shadow Orbは５秒間2.5%のダメージボーナスの後に消滅する。Shadow Orbが５つ以上になると効果が２倍になる。
 Valomyr  | Valomyr's Regard  | +80 Radiant  | +1~3 Aetherhunter  | Power / Utility  | チャージ後の攻撃に550のRadiantダメージを付加する。チャージ速度は現在のHPに依存する。
-Boreus  | Onus of Boreus  | +80 Frost  | +1~3 Conditioning  | Power / Defence  | オーバードライブ発動中に氷塊が生成され続け、氷塊生成後の次の攻撃には+50のボーナスダメージが加算される。氷塊は最大4つまで同時に生成され、わずかなFrostダメージを与える。Using a Special continually generates Frost Sprite that cause your next attack to deal 50 bonus damage and minor frost damage. Max 4 Sprites.
+Boreus  | Onus of Boreus  | +80 Frost  | +1~3 Conditioning  | Power / Defence  | オーバードライブ発動中に氷塊が生成され続け、氷塊生成後の次の攻撃には+50のボーナスダメージが加算される。氷塊は最大4つまで同時に生成され、わずかなFrostダメージを与える。
+
+
+## Exotics
+Name  | Elemental  |  Perks  | Slots  | Unique Effects]
+---------------------|--------|------------------|----------------------|-----------------
+The Hunger |  Radiant | None |  Power / Utility  | 特殊アクションでFeast状態になる。Feast中、時間経過でダメージを受けるが、ライフスティール、攻撃速度上昇、斬撃が飛び範囲ダメージを与える。
