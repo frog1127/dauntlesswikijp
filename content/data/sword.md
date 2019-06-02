@@ -27,7 +27,7 @@ title: ソード（Sword）詳細データ
 | Koshai           | Sovereign's Torment | 100       | 550       | +80 Terra   | +1~3 [Sharpened](/data/パーク/#sharpened)                     | Power         | Utility       | 6秒間ダメージを与えないでいると、次の4回の攻撃のダメージが25%上昇する                                                                                            |
 | Rezakiri         | Call of Dawn        | 100       | 550       | +80 Radiant | +1~3 [Cunning](/data/パーク/#cunning)                         | Technique     | Utility       | 10%の確率で攻撃が2回ヒットする                                                                                                                                   |
 | Shrowd           | Verge of Night      | 100       | 550       | +80 Umbral  | +1~3 [Cunning](/data/パーク/#cunning)                         | Power         | Utility       | 体力が20%以下のとき、+50%ダメージ                                                                                                                                |
-| Shrowd（Exotic） | The Hunger          | 100       | 550       | +80 Umbral  | -                                                             | Power         | Utility       | ゲージ最大時にFeastを発動できる。発動中はダメージを受け続けるが、ライフ吸収効果がつき、攻撃速度が上昇、全ての攻撃がエーテル波を出し範囲ダメージを与える。        |
+| Exotic | The Hunger          | 100       | 550       | +80 Umbral  | -                                                             | Power         | Utility       | ゲージ最大時にFeastを発動できる。発動中はダメージを受け続けるが、ライフ吸収効果がつき、攻撃速度が上昇、全ての攻撃がエーテル波を出し範囲ダメージを与える。        |
 
 # 特殊アクション
 ## Valiant Overdrive
