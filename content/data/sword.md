@@ -12,7 +12,7 @@ Elementalが付いている場合は、Raw + Elemental = 攻撃力になる。
 | ----------- | ------------------- | ----- | --- | ----------- | --------------- | ------------ | -------- |
 | -           | Training Sword      | 70    | 70  | -           | -               |              |          |
 | -           | Recruit's Sword     | 80    | 80  | -           | -               |              |          |
-| Gnasher     | Raging Blade        | 100   | 550 | -           | +1~3 Ragehunter |              |          |
+| Gnasher     | Raging Blade        | 100   | 550 | -           | +1~3 Ragehunter | Utility \n Defense             |          |
 | Embermane   | Ember Cutlass       | 100   | 550 | +80 Blaze   |                 |              |          |
 | Drask       | Thundering Blade    | 100   | 550 | +80 Shock   |                 |              |          |
 | Boreus      | Onus of Boreus      | 100   | 550 | +80 Frost   |                 |              |          |
