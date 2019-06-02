@@ -30,3 +30,21 @@ Reclaim Our Shattered World:
 
 An Ever-changing World: 
 新しい冒険へ旅立とう！今後数年間、定期的にアップデートを実施。全て　Free to Play。
+
+----
+
+推奨スペック
+OS: Windows 10
+DirectX: DirectX11
+Processor: Intel Core i7
+Memory: 8 GB RAM
+GPU: Nvidia GTX 970
+Storage: 15 GB available space
+
+最小要求スペック　※動作保証ではなく、起動保証
+OS: Windows 7 DX11 Support
+DirectX: DirectX11
+Processor: Intel Core i5 // AMD Phenom 2 X4 B93
+Memory: 4 GB RAM
+GPU: Nvidia 660Ti
+Storage: 15 GB available space
