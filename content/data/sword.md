@@ -3,7 +3,7 @@ title: sword
 ---
 # Sword
 
-攻撃力：Trainingは70、Recruitは80、その他の武器は100-550
+攻撃力：Trainingは70、Recruitは80-100、その他の武器は100-550
 Elementalが付いている場合は、Raw + Elemental = 攻撃力になる。
 ※+10の武器の場合、420 + 80 = 500
 
