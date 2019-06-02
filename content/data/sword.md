@@ -27,6 +27,20 @@ title: ソード（Sword）詳細データ
 | Shrowd           | Verge of Night      | 100       | 550       | +80 Umbral  | +1~3 [Cunning](/data/パーク/#cunning)                         | Power         | Utility       | 体力が20%以下のとき、+50%ダメージ                                                                                                                                |
 | Shrowd（Exotic） | The Hunger          | 100       | 550       | +80 Umbral  | -                                                             | Power         | Utility       | ゲージ最大時にFeastを発動できる。発動中はダメージを受け続けるが、ライフ吸収効果がつき、攻撃速度が上昇、全ての攻撃がエーテル波を出し範囲ダメージを与える。        |
 
-## 特殊アクション
+# 特殊アクション
+## Valiant Overdrive
+初期装備。
+発動するとオーバードライブになり、攻撃速度が上昇、攻撃が範囲ダメージを与える。
+効果中に再度発動すると中距離をダッシュする。こちらはクールダウン。
 
-## MOD
+## Ardent Cyclone
+Sword Mastery 8で開放。
+回転し続け、周囲の敵にダメージを与える。
+効果中に再度発動すると、回転で与えたダメージに比例した一撃を出す。
+
+## Feast
+The Hunger専用。
+発動中ダメージを受け続ける代わりにライフ吸収効果がつく。
+それ以外はValiant Overdriveと同じ。
+
+# MOD
