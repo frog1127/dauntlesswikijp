@@ -1,5 +1,5 @@
 ---
-title: ostian-repeaters
+title: オスティアンリピーター（Ostian Repeaters）ガイド
 ---
 オスティアンリピーター（Ostian Repeaters）は遠距離攻撃可能な2丁の銃。
 詳細なデータは[データページ](/data/ostian-repeaters)へ。
