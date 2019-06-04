@@ -161,16 +161,26 @@ https://playdauntless.com あるいは <https://playdauntless.com> のように�
 # テーブル
 
 ```
-Name    | Age
---------|-----
-Bob     | 27
-Alice   | 23
+Name     | Age
+---------|-----
+Bob      | 27
+Alice    | 23
+!r3!Jhon | 1
+!-!      | 2
+!-!      | 3
+Jack     | 12
+!c2!Becky| !-!
 ```
 
-Name    | Age
---------|-----
-Bob    | 27
-Alice   | 23
+Name     | Age
+---------|-----
+Bob      | 27
+Alice    | 23
+!r3!Jhon | 1
+!-!      | 2
+!-!      | 3
+Jack     | 12
+!c2!Becky| !-!
 
 # 脚注
 にょき[^a]
