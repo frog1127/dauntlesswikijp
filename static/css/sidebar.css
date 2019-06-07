@@ -23,10 +23,6 @@
     border: none;
 }
 
-.sidebar-toggle svg {
-    fill: #EFEEE8;
-}
-
 .sidebar-back {
     display: none;
 }
@@ -44,10 +40,16 @@
     }
 
     .sidebar-toggle[visible] {
-        display: flex;
-        position: absolute;
-        right: 2px;
-
+        display: block;
+        background-color: #1E2222;
+        border: thin solid #c2c1bb;
+        margin-top: 6px;
+        margin-left: auto;
+        margin-right: 6px;
+        padding: 3px;
+        height: 1.25em;
+        font-weight: 700;
+        text-align: right;
     }
 
     .sidebar-back[visible] {
