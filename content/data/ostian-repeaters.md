@@ -5,6 +5,7 @@ title: オスティアンリピーター（Ostian Repeaters）詳細データ
 
 # バレル（Barrels）
 攻撃の属性を変える。
+
 | 名称 | !c2!Power | !-! | 属性 | ユニーク効果 |
 | --- | --- | --- | --- | --- |
 | Standard Barrel | 28 | 153 | - | Basic ShotsとSkillshot Abilityが無属性になる。 |
@@ -17,6 +18,7 @@ title: オスティアンリピーター（Ostian Repeaters）詳細データ
 
 # 弾倉（Chambers）
 Skillshot Abilityを変化させる。
+
 | 名称 | !c2!Power | !-! | クールダウン | Skillshot Ability |
 | --- | --- | --- | --- | --- |
 | Salvo Chamber | 28 | 153 | 15秒 | 爆発する弾を撃ち出し、着弾地点に400の範囲ダメージを与える。 !br!Empowered: 弾が3発になる。 |
@@ -25,6 +27,7 @@ Skillshot Abilityを変化させる。
 
 # グリップ（Grips）
 Thrown Abilityを変化させる。
+
 | 名称 | !c2!Power | !-! | クールダウン | Thrown Ability |
 | --- | --- | --- | --- | --- |
 | Captain's Grip | 28 | 153 | 20秒 | - |
@@ -32,6 +35,7 @@ Thrown Abilityを変化させる。
 
 # プリズム（Prisims）
 パッシブ効果がつく。
+
 | 名称 | !c2!Power | !-! |  パッシブ効果 |
 | --- | --- | --- | --- |
 | Eclipse Prism | 16 | 91 | - |
