@@ -8,7 +8,7 @@ https://www.dauntless-builder.com/b/dbU0BuWC7BH1MUqFxCyTwTBTkTysaCjaikTbCpKSjQho
 速さこそ正義
 
 # 解説
-[Eversive Fury](/data/パーク/#eversive-fury)、[Molten](/data/パーク/#molten)、[Aetheric Attunement](/data/パーク/#aetheric-attunement + [Conduit](/data/パーク/#conduit)、そしてEmbermaneランタンと、とにかく攻撃速度を追い求めた。
+[Eversive Fury](/data/パーク/#eversive-fury)、[Molten](/data/パーク/#molten)、[Aetheric Attunement](/data/パーク/#aetheric-attunement) + [Conduit](/data/パーク/#conduit)、そしてEmbermaneランタンと、とにかく攻撃速度を追い求めた。
 
 [Eversive Fury](/data/パーク/#eversive-fury)と[Molten](/data/パーク/#molten)を常時発動させ、攻撃速度+45%は常時発動させる。
 その上で、[Conduit](/data/パーク/#conduit)とDraskランタンを交互に発動して、攻撃速度70%と75%を交互になるような形で使い、可能な限り攻撃速度70%以上をキープしつつ戦おう。
