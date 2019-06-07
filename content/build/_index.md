@@ -15,7 +15,7 @@ title: ビルド集
 
 ## Ostian Repeaters
 
-- - -
+----
 
 # ビルドを載せたい
 
