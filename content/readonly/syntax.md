@@ -181,7 +181,7 @@ Alice    | 23
 !r3!Jhon | 1
 !-!      | 2
 !-!      | 3
-Jack     | 12
+Jack     | 12!br!3
 !c2!Becky| !-!
 ```
 
