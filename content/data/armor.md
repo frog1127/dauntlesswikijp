@@ -6,9 +6,9 @@ title: armor
 | ベヒモス        | 部位  | 強耐性         | 弱耐性          | スロット      | パーク                      |
 | ----------- | ---- | ----------- | ------------ | --------- | ------------------------ |
 | Recruit     | 頭   | None        | None         | None      | None                     |
-!-!           | 胴   | None        | None         | None      | None                     |
-!-!           | 腕   | None        | None         | None      | None                     |
-!-!           | 脚   | None        | None         | None      | None                     |
+|!-!           | 胴   | None        | None         | None      | None                     |
+|!-!           | 腕   | None        | None         | None      | None                     |
+|!-!           | 脚   | None        | None         | None      | None                     |
 | Gnasher     | 頭   | None        | None         | Defence   | +1～3 Bloodless           |
 !-!           | 胴   | None        | None         | Defence   | +1～3 Tough               |
 !-!           | 腕   | None        | None         | Power     | +1～3 Ragehunter          |
