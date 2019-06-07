@@ -44,3 +44,13 @@ Thrown Abilityを変化させる。
 | Searing Prism | 16 | 91 | 素早い10hit目の攻撃に250の追加Blazeダメージ。 |
 | Snowdrift Prism | 16 | 91 | マガジンの最後の4発を撃った時に氷精が生成される。攻撃時に氷精が消費され、+50の追加ダメージとFrostダメージ。氷精は最大4つまで同時に生成さる |
 | Glacial Prism | 16 | 91 | 回避時に氷地雷を落とす。クールダウン30秒。 |
+
+# MOD
+| 名称 | 効果 |
+| --- | --- |
+| Capacitive Magazine | アビリティを使うと4発装填される。 |
+| Scoped Sights | ダメージが減衰する距離が25%伸びる。 |
+| Lucky Magazine | マガジンで使われた弾1発につき2%クリティカル率を得る。 |
+| Extraction Catalyst | Behemothの攻撃を完全回避したときアビリティそれぞれのクールダウンを2秒短縮する。 |
+| Lightweight Frame | 残弾が6発以下の時移動速度が20%上昇する。 |
+| Precision Sights | 同じ部位を攻撃しつづけると5ずつダメージが上昇する。8回までスタックする。 |
