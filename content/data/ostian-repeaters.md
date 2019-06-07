@@ -4,7 +4,7 @@ title: オスティアンリピーター（Ostian Repeaters）詳細データ
 基本操作やガイドは[Ostian Repeatersガイド](/basic/ostian-repeaters/)を参照。
 
 # バレル（Barrels）
-| 名称 | 初期Power | 最大Power | 属性 | ユニーク効果 |
+| 名称 | !c2!Power | !-! | 属性 | ユニーク効果 |
 | --- | --- | --- | --- | --- |
 | Standard Barrel | 28 | 153 | - | Basic ShotsとSkillshot Abilityが無属性になる |
 | Blaze Barrel | 28 | 153 | +80 Blaze | Basic ShotsとSkillshot AbilityがBlaze属性になる |
@@ -15,7 +15,7 @@ title: オスティアンリピーター（Ostian Repeaters）詳細データ
 | Dawnstar Barrel | 28 | 153 | +80 Radiant | Basic ShotsとSkillshot AbilityがRadiant属性になる |
 
 # 弾倉（Chambers）
-| 名称 | 初期Power | 最大Power | クールダウン | Skillshot Ability |
+| 名称 | !c2!Power | !-! | クールダウン | Skillshot Ability |
 | --- | --- | --- | --- | --- |
 | Salvo Chamber | 28 | 153 | 15秒 | 爆発する弾を撃ち出し、着弾地点に400の範囲ダメージを与える !br!Empowered: 弾が3発になる。 |
 | Marksman Chamber | 28 | 153 | 20秒 | 250ダメージの弾を撃つ。部位にあたった時、10秒間その部位に与えるPartダメージが40%増加する。 !br!Empowered: ダメージボーナスが80%になり、味方にも25%の効果が発生する。 |
