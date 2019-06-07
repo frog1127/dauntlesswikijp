@@ -38,7 +38,8 @@ https://www.dauntless-builder.com/b/e8UbncRCAwCjRCdcjUwTPTaT4TYQFKC4vhkTpCXaC8In
 [Swift](/data/パーク/#swift)は納刀時のみ効果なので注意。
 Swift+6は周囲のプレイヤーの移動速度も上昇させる。
 開幕のベヒモス探しでは味方から離れないようにしよう。
-[Aetheric Attunment](/data/パーク/#aetheric-attunement)、[Aetheric Frenzy](/data/パーク/#aetheric-frenzy)によってランタンチャージ速度が早いのでShrikeランタンの速度上昇効果を最大限使おう。
+[Aetheric Attunment](/data/パーク/#aetheric-attunement)、[Aetheric Frenzy](/data/パーク/#aetheric-frenzy)によってランタンチャージ速度が早いので
+Shrikeランタンの速度上昇効果を最大限使おう。
 [Fleet Footed](/data/パーク/#fleet-footed)は効果時間が短いため、移動距離が長い場合は素直に走ったほうがよい。攻撃回避後に接近する場合に役立つ。
 
 # 改造案
