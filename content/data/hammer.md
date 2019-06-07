@@ -1,5 +1,5 @@
 ---
-title: hammer
+title: ハンマー（Hammer）詳細データ
 ---
 基本操作やコンボ、ガイドは[Hammerガイド](/basic/hammer/)を参照。
 
