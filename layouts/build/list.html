@@ -1,0 +1,15 @@
+{{ define "main" }}
+<h1>ビルド集</h1>
+<ul>
+  <!-- Ranges through content/posts/*.md -->
+  {{ range .Pages }}
+  <li>
+    <a href="{{.Permalink}}">{{.Title}}</a>
+  </li>
+  {{ end }}
+</ul>
+<hr />
+{{ .Content | replaceRE "<td>!r([0-9]+)!(.*)</td>" "<td rowspan=\"$1\" class=\"rowspan\">$2</td>" | replaceRE "<td>!c([0-9]+)!(.*)</td>" "<td colspan=\"$1\" class=\"colspan\">$2</td>" | replaceRE "<td>!-!</td>" "" | safeHTML }}
+<hr />
+{{ template "_internal/disqus.html" . }}
+{{ end }}
