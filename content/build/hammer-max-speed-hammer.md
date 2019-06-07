@@ -15,7 +15,7 @@ https://www.dauntless-builder.com/b/dbU0BuWC7BH1MUqFxCyTwTBTkTysaCjaikTbCpKSjQho
 場合によってはインスタントとホールドを両方発動させ、攻撃速度100%で殴ってもよい。
 
 # 改造案
-ヘルスを50%以下を維持できるなら、[Molten](/data/パーク/#molten)を+3にして、[Wild Frenzy](/data/パーク/#wild-frenzy)+6にしてもよい。
+ヘルスを50%以下で維持できるなら、[Molten](/data/パーク/#molten)を+3にして、[Wild Frenzy](/data/パーク/#wild-frenzy)+6にしてもよい。
 https://www.dauntless-builder.com/b/13UJ5CeCrVCaKumFVCJT3T1T6T8sqCMwiETJCn3cm7hgCgwCQURCkxi0t2J
 
 # 感想
