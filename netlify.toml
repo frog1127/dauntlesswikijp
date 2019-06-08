@@ -33,3 +33,68 @@ HUGO_ENABLEGITINFO = "true"
 from = "/doku.php"
 to = "/basic/初心者ガイド/"
 query = {id="basic:初心者ガイド"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/basic/基本操作/"
+query = {id="basic:基本操作"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/basic/sword/"
+query = {id="basic:ソード"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/basic/chain-blades/"
+query = {id="basic:チェインブレード"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/basic/hammer/"
+query = {id="basic:ハンマー"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/basic/axe/"
+query = {id="basic:アックス"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/basic/war-pike/"
+query = {id="basic:ウォーパイク"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/basic/ostian-repeaters/"
+query = {id="basic:オスティアンリピーター"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/data/sword/"
+query = {id="weapon:ソード"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/data/chain-blades/"
+query = {id="weapon:チェインブレード"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/data/hammer/"
+query = {id="weapon:ハンマー"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/data/axe/"
+query = {id="weapon:アックス"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/data/war-pike/"
+query = {id="weapon:ウォーパイク"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/data/ostian-repeaters/"
+query = {id="weapon:オスティアンリピーター"}
