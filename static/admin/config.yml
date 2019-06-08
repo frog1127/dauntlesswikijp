@@ -30,6 +30,17 @@ collections:
       - {label: "本文", name: "body", widget: "markdown"}
     editor:
       preview: false
+  - label: "Behemoth"
+    name: "behemoth"
+    folder: "content/behemoth"
+    create: true
+    slug: "{{slug}}"
+    preview_path: "/behemoth/{{slug}}"
+    fields:
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "本文", name: "body", widget: "markdown"}
+    editor:
+      preview: false
   - label: "Guide"
     name: "guide"
     folder: "content/guide"
