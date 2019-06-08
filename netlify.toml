@@ -41,7 +41,7 @@ query = {id="basic:パーク"}
 
 [[redirects]]
 from = "/doku.php"
-to = "/data/よくある質問/"
+to = "/basic/よくある質問/"
 query = {id="basic:よくある質問"}
 
 [[redirects]]
