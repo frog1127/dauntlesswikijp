@@ -19,12 +19,6 @@ title: Embermane
 | 足 | Smoked Dewclaw |
 | 尻尾 | Burning Tailspike |
 
-## Bloodfire Embermane
-
-| 属性 | 脅威度 | 推奨Power |
-| --- | --- | --- |
-| Blazel | 10!br!15 (Heroic) | 350!br! 475 (Heroic) |
-
 ## Embermane
 | 属性 | 脅威度 | 推奨Power |
 | --- | --- | --- |
