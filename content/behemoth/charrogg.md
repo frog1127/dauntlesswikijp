@@ -1,6 +1,8 @@
 ---
 title: Charrogg
 ---
+![Charrogg](/img/icon_charrogg.png)
+
 # 種類
 ## Charrogg
 | 属性 | 脅威度 | 推奨Power |
