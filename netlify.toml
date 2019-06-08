@@ -28,3 +28,7 @@ HUGO_VERSION = "0.55.6"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+from = "/doku.php?id=basic:初心者ガイド"
+to = "/basic/初心者ガイド/"
