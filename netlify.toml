@@ -30,5 +30,6 @@ HUGO_VERSION = "0.55.6"
 HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-from = "/doku.php id=basic:初心者ガイド"
+from = "/doku.php"
 to = "/basic/初心者ガイド/"
+query = {id="basic:初心者ガイド"}
