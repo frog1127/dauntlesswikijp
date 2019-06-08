@@ -123,3 +123,13 @@ query = {id="weapon:ウォーパイク"}
 from = "/doku.php"
 to = "/data/ostian-repeaters/"
 query = {id="weapon:オスティアンリピーター"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/data/armor/"
+query = {id="防具"}
+
+[[redirects]]
+from = "/doku.php"
+to = "/data/lantern/"
+query = {id="ランタン"}
