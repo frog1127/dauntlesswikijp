@@ -1,8 +1,6 @@
 ---
 title: Skarn
 ---
-※英Wikiの情報だけど新しいか解らないので　Published　注意！！！
-
 ![Skarn](/img/icon_skarn.png)
 
 # 種類
