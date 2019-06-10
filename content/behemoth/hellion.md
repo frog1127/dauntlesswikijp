@@ -8,7 +8,7 @@ title: Hellion
 ## Hellion
 | 属性 | 脅威度 | 推奨Power |
 | --- | --- | --- |
-| Blazel | 7 | 275 |
+| Blaze | 7 | 275 |
 
 ### 素材
 | 部位 | 名称 |
@@ -22,7 +22,7 @@ title: Hellion
 
 | 属性 | 脅威度 | 推奨Power |
 | --- | --- | --- |
-| Blazel | 12!br!16 (Heroic) | 400!br! 505 (Heroic) |
+| Blaze | 12!br!16 (Heroic) | 400!br! 505 (Heroic) |
 
 ### 素材
 | 部位 | 名称 |
@@ -39,11 +39,11 @@ title: Hellion
 ## 武器
 | 種類 | 名称 | パーク | スロット |
 | --- | --- | --- | --- |
-| Sword | Inferno's Razor | [Overpower	](/data/パーク/#overpewer) | Power!br!Power |
-| Hammer | Inferno's Burden | [Overpower	](/data/パーク/#overpewer) | Power!br!Power |
-| Chain Blades | Inferno's Fangs | [Overpower	](/data/パーク/#overpewer) | Power!br!Power |
-| Axe | Inferno's Decree | [Overpower	](/data/パーク/#overpewer) | Power!br!Power |
-| War Pike |  Inferno's Arrow | [Overpower	](/data/パーク/#overpewer) | Power!br!Power |
+| Sword | Inferno's Razor | [Overpower](/data/パーク/#overpewer) | Power!br!Power |
+| Hammer | Inferno's Burden | [Overpower](/data/パーク/#overpewer) | Power!br!Power |
+| Chain Blades | Inferno's Fangs | [Overpower](/data/パーク/#overpewer) | Power!br!Power |
+| Axe | Inferno's Decree | [Overpower](/data/パーク/#overpewer) | Power!br!Power |
+| War Pike |  Inferno's Arrow | [Overpower](/data/パーク/#overpewer) | Power!br!Power |
 
 ## 防具
 | 種類 | 名称 | パーク | スロット |

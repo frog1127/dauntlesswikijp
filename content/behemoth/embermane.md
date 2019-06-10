@@ -8,7 +8,7 @@ title: Embermane
 ## Lesser Embermane
 | 属性 | 脅威度 | 推奨Power |
 | --- | --- | --- |
-| Blazel | 1 | 50 |
+| Blaze | 1 | 50 |
 
 ### 素材
 | 部位 | 名称 |
@@ -22,7 +22,7 @@ title: Embermane
 ## Embermane
 | 属性 | 脅威度 | 推奨Power |
 | --- | --- | --- |
-| Blazel | 5 | 200 |
+| Blaze | 5 | 200 |
 
 ### 素材
 | 部位 | 名称 |
@@ -37,7 +37,7 @@ title: Embermane
 
 | 属性 | 脅威度 | 推奨Power |
 | --- | --- | --- |
-| Blazel | 10!br!15 (Heroic) | 350!br! 475 (Heroic) |
+| Blaze | 10!br!15 (Heroic) | 350!br! 475 (Heroic) |
 
 ### 素材
 | 部位 | 名称 |

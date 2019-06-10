@@ -7,7 +7,7 @@ title: Charrogg
 ## Charrogg
 | 属性 | 脅威度 | 推奨Power |
 | --- | --- | --- |
-| Blazel | 4 | 150 |
+| Blaze | 4 | 150 |
 
 ### 素材
 | 部位 | 名称 |
