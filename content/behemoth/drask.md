@@ -13,7 +13,7 @@ title: Drask
 ### 素材
 | 部位 | 名称 |
 | --- | --- |
-| !c3!討伐報酬 | Drask Hide |
+| !r3!討伐報酬 | Drask Hide |
 | !-! | Thundering Scale |
 | !-! | Thundersoul Shard |
 | 頭 | Fractal Eyetooth |
