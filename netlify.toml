@@ -51,7 +51,7 @@ query = {id="basic:ダメージについて"}
 
 [[redirects]]
 from = "/doku.php"
-to = "/basic/インタラプト/"
+to = "/basic/インタラプト/ff"
 query = {id="basic:interrupt早見表"}
 
 [[redirects]]
