@@ -1,6 +1,7 @@
 ---
 title: Gnasher
 ---
+![Gnasher](/img/icon_gnasher.png)
 
 # 種類
 ## Lesser Gnasher
