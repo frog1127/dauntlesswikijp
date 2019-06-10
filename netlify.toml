@@ -46,12 +46,12 @@ query = {id="basic:よくある質問"}
 
 [[redirects]]
 from = "/doku.php"
-to = "/basic/インタラプト/"
+to = "/basic/ダメージについて/"
 query = {id="basic:ダメージについて"}
 
 [[redirects]]
 from = "/doku.php"
-to = "/basic/よくある質問/"
+to = "/basic/インタラプト/"
 query = {id="basic:interrupt早見表"}
 
 [[redirects]]
