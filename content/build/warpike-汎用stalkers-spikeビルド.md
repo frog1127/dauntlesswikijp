@@ -22,4 +22,4 @@ Lightweight Shaftによる突進主体プレイと刺突コンボ主体両対応
 # 感想
 槍でやりたいことは大体なんでもできる優秀ビルド。
 ただしパトロールでScorchstone Hellionが出てきた時にビルド変更必須になるのが面倒臭い。
-その場合は、頭のスロットと足装備を変更し、[Predator](/data/パーク/#predator)をMoltenに変更しよう。
+その場合は、頭のスロットと足装備を変更し、[Predator](/data/パーク/#predator)を[Molten](/data/パーク/#molten)に変更しよう。
