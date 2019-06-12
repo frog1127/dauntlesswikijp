@@ -8,7 +8,7 @@ https://www.dauntless-builder.com/b/mLUJKtbCjpTmptWFgtOTETRTrTpBuxCg5iqPfECeqHxt
 Lightweight Shaftによる突進主体プレイと刺突コンボ主体両対応の優秀ビルド
 
 # 解説
-突進連打ビルドと突進→刺突コンボ両方できるビルド。
+突進連打プレイと刺突主体プレイ両方できるビルド。
 定番の[Savagery](/data/パーク/#savagery)
 突進連打で枯渇しがちなスタミナを[Conditioning](/data/パーク/#conditioning)+6でカバー。
 火力の底上げに[Predator](/data/パーク/#predator)。
@@ -22,4 +22,4 @@ Lightweight Shaftによる突進主体プレイと刺突コンボ主体両対応
 # 感想
 槍でやりたいことは大体なんでもできる優秀ビルド。
 ただしパトロールでScorchstone Hellionが出てきた時にビルド変更必須になるのが面倒臭い。
-その場合は、頭のスロットと足装備を変更し、[Predator](/data/パーク/#predator)を[Molten](/data/パーク/#molten)に変更しよう。
+その場合は、頭のスロットと足装備を変更し、[Predator](/data/パーク/#predator)をMoltenに変更しよう。
