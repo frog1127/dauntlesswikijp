@@ -12,6 +12,7 @@ title: ビルド集
 ## Axe
 
 ## War Pike
+* [汎用Stalker's Spikeビルド](/build/warpike-汎用stalkers-spikeビルド)
 
 ## Ostian Repeaters
 
