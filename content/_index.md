@@ -35,7 +35,7 @@ Wikiの編集方法については、[Wiki編集マニュアル](/readonly/編�
 
 ## 日本語コミュニティ
 - [Twitter - #Dauntless](https://twitter.com/search?q=%23dauntless%20lang%3Aja&src=typd)
-- [5ch現行スレ - 【Oβテスト中】Dauntless 【Part8】](http://krsw.5ch.net/test/read.cgi/netgame/1559011777/)
+- [5ch現行スレ - Dauntless 【Part9】](http://krsw.5ch.net/test/read.cgi/netgame/1559873897/)
 - [Discord - DauntlessJapan](https://discord.gg/HpcrfYf)
 
 # コメント欄
