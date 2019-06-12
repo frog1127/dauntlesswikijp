@@ -17,6 +17,9 @@ Wikiの編集方法については、[Wiki編集マニュアル](/readonly/編�
 <http://dauntlesstest.knoyism.net/>
 
 # ニュース
+## Switch版リリース決定
+https://twitter.com/PlayDauntless/status/1138487603806769152
+
 ## 最新バージョン
 **OB 0.8.2**
 [パッチノート和訳](/translate/patch/ob-0-8-2)
