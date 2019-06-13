@@ -10,6 +10,7 @@ title: ビルド集
 ## Chain Blades
 
 ## Axe
+* [Max Speed Axe](/build/axe-max-speed-axe)
 
 ## War Pike
 * [汎用Stalker's Spikeビルド](/build/warpike-汎用stalkers-spikeビルド)
