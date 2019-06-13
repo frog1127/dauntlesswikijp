@@ -19,7 +19,7 @@ title: Nayzaga
 | !r2!足 | Sparkclaw Splinter |
 | !-! | Sparkclaw Chunk |
 | !r2!尻尾 | Sparkspine |
-| !-!尻尾 | Electric Tailspike |
+| !-! | Electric Tailspike |
 
 
 ## Shockjaw Nayzaga
