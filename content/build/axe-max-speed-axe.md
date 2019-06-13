@@ -8,7 +8,7 @@ https://www.dauntless-builder.com/b/w3UgRHYC48I0Tkc2tATZTnTMTZsPCzViZTxCJ0COI6Cq
 速さこそ正義
 
 # 解説
-[Molten](/data/パーク/#molten)、[Aetheric Attunement](/data/パーク/#aetheric-attunement) + [Conduit](/data/パーク/#conduit)、そしてEmbermaneランタンで速度を上げつつ、[Energized](/data/パーク/#energized)を確保しバフを最大LVにする速度も早めた。
+[Molten](/data/パーク/#molten)、[Aetheric Attunement](/data/パーク/#aetheric-attunement) + [Conduit](/data/パーク/#conduit)、そしてEmbermaneランタンで速度を上げつつ、[Energized](/data/パーク/#energized)を確保しバフを最大LVにする速度も早めて実用レベルを上げた。
 
 [Molten](/data/パーク/#molten)をできるだけ回収しつつ、[Conduit](/data/パーク/#conduit)とDraskランタンを交互に発動して攻撃速度を確保し、速やかにバフのレベルを上げていこう。
 
