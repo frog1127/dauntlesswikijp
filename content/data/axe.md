@@ -35,14 +35,14 @@ PowerはRecruitsが80、それ以外は全て無強化で100、強化+15で550�
 
 特殊ゲージがMAXの時に特殊アクションを当てる事で、ゲージの数字が増え、攻撃力が上昇する。
 
-## Concussive Payload
+## Grim Onslaught
 
 初期装備。
 斧をブーメランのように投げつける。
 斧投げ中にもう一度特殊アクションを行う事で強力な叩きつけを出せる。
 叩きつけを当てたときにゲージの段階が進む。
 
-## Savage Wellspring
+## Flight of Ruin
 
 Axe Mastery Lv8 で習得可能。
 斧を直線的に投げつける。
