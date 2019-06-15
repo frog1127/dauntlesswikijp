@@ -14,6 +14,8 @@ title: ビルド集
 
 ## War Pike
 * [汎用Stalker's Spikeビルド](/build/warpike-汎用stalkers-spikeビルド)
+* [Storm Pike 突進ビルド](/build/warpike-突進メイン用-storm-pikeビルド)
+* [Spire of Dawn 刺突ビルド](/build/warpike-spire-of-dawn-刺突ビルド)
 
 ## Ostian Repeaters
 
