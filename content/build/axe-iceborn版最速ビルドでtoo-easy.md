@@ -19,8 +19,6 @@ https://www.dauntless-builder.com/b/jBUjzTJCaLUR4CPc4CNT4TXTwTajuNCAVHqFkCjFeS8C
 
 [Molten](https://dauntlesswikijp.llism.net/data/%E3%83%91%E3%83%BC%E3%82%AF/#molten)はベヒモス周辺に撒いておく事で自身の攻撃速度アップや、Blaze属性の対応策として利用しよう。
 
-
-
 ベヒモスに張り付いて連続した攻撃を浴びせる立ち回りになるので、序盤はチャージ攻撃やGrim Onslaughtを多用してバフを獲得しよう。
 
 # 改造案
@@ -35,6 +33,8 @@ https://www.dauntless-builder.com/b/jBUjzTJCaLUR4CPc4CNT4TXTwTajuNCAVHqFkCjFeS8C
 
 Aさん「どんなに瀕死でも1コンボ当てきると体力が半分に戻っていた。」
 
-Bさん「ドッジロールと回復薬って何だっけ？」
+Bさん「回避って何だっけ？」
 
 Cさん「もう普通の速度には戻れません。」
+
+Dさん「[消費アイテム](https://dauntlesswikijp.llism.net/data/%E6%B6%88%E8%B2%BB%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0/)のBlitz Tonicと相性が良かったです。ワンパンが不安ならBulwark Tonicを飲むと安心できます。」
