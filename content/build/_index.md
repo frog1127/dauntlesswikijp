@@ -3,6 +3,8 @@ title: ビルド集
 ---
 ## Sword
 
+* [移動速度バフ全盛り](https://dauntlesswikijp.llism.net/build/sword-%E7%A7%BB%E5%8B%95%E9%80%9F%E5%BA%A6%E3%83%90%E3%83%95%E5%85%A8%E7%9B%9B%E3%82%8A/)
+
 ## Hammer
 
 * [Max Speed Hammer](/build/hammer-max-speed-hammer)
@@ -10,16 +12,19 @@ title: ビルド集
 ## Chain Blades
 
 ## Axe
+
 * [Max Speed Axe](/build/axe-max-speed-axe)
+* [Iceborne版最速ビルドでtoo easy](https://dauntlesswikijp.llism.net/build/axe-iceborn%E7%89%88%E6%9C%80%E9%80%9F%E3%83%93%E3%83%AB%E3%83%89%E3%81%A7too-easy/)
 
 ## War Pike
+
 * [汎用Stalker's Spikeビルド](/build/warpike-汎用stalkers-spikeビルド)
 * [Storm Pike 突進ビルド](/build/warpike-突進メイン用-storm-pikeビルド)
 * [Spire of Dawn 刺突ビルド](/build/warpike-spire-of-dawn-刺突ビルド)
 
 ## Ostian Repeaters
 
-----
+- - -
 
 # ビルドを載せたい
 
