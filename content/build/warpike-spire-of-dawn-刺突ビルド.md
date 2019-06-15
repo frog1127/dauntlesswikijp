@@ -17,7 +17,7 @@ https://www.dauntless-builder.com/b/QjUx7snCBKCRwu0FAtqTbTXTbToku3CqPCeSdCyVUJfW
 ベヒモスによってはRagehunterを[Aetherhunter](/data/パーク/#aetherhunter)にする程度。
 インタラプトを複数回取れるような相手に[Overpower](/data/パーク/#overpower)をつけるか悩むが、[Acidic](/data/パーク/#acidic)採用で部位破壊回数が低い為に有効性は使う人とベヒモスの気分次第。
 ランタンは好みでDraskでも良い。
-Thundering Spear、Raging Crueltyに武器変更してもOK。武器を変更するとEnergized+3をつけられるので多少使いやすくはなる。
+Thundering Spear、Raging Crueltyに武器変更してもOK。武器を変更するとEnergized+3をつけられるので多少使いやすくはなるが気休め程度。
 
 # 感想
 火力を出すためにはほぼノーダメ運用を余儀なくされるので、回避がしっかりできる人向けの本気用装備の一つ。
