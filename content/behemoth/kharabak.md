@@ -2,27 +2,25 @@
 title: Kharabak
 ---
 ![Kharabak](/img/icon_kharabak.png)
-
 # 種類
-
 ## Kharabak
 | 属性 | 脅威度 | 推奨Power |
 | --- | --- | --- |
-| Neutral | 6 | 250 |
+| Terra | 6 | 250 |
 
 ### 素材
 | 部位 | 名称 |
 | --- | --- |
 | 討伐報酬 | Kharabak Chitin |
 | 頭 | Deadly Incisor |
-| 足 | Claw Shell Fragment |
+| 足 | Claw Shell Fragment	 |
 | 尻尾 | Deadly Ovipositor |
 
-## Razorwing Kharabak
+## Razorwing Kharabaks
 
 | 属性 | 脅威度 | 推奨Power |
 | --- | --- | --- |
-| Neutral | 10!br!14 (Heroic) | 350!br!450 (Heroic) |
+| Terra | 10!br!14 (Heroic) | 350!br! 450 (Heroic) |
 
 ### 素材
 | 部位 | 名称 |
@@ -36,7 +34,9 @@ title: Kharabak
 | Heroic討伐報酬| Progenitor |
 
 # 装備
+
 ## 武器
+
 | 種類 | 名称 | パーク | スロット |
 | --- | --- | --- | --- |
 | Sword | Kharabak's Spur | [Bladestorm](/data/パーク/#bladestorm) | Technique!br!Mobility |
@@ -48,7 +48,7 @@ title: Kharabak
 ## 防具
 | 種類 | 名称 | パーク | スロット |
 | --- | --- | --- | --- |
-| 頭 | Eye of the Swarm | [Shellshock Regist](/data/パーク/#shellshock-regist) | Mobility |
+| 頭 | Eye of the Swarm | [Shellshock Resist](/data/パーク/#shellshock Resist) | Mobility |
 | 胴 | Shell of the Swarm | [Bladestorm](/data/パーク/#bladestorm) | Technique |
 | 手 | Clutches of the Swarm | [Conditioning](/data/パーク/#conditioning) | Mobility |
 | 足 | Dance of the Swarm | [Conditioning](/data/パーク/#conditioning) | Power |
