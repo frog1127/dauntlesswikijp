@@ -14,9 +14,9 @@ title: Pangar
 | 部位 | 名称 |
 | --- | --- |
 | 全身 | Pangar Hide |
-| 頭 | Frosty Tooth |
-| !r2!頭 | Frosty Incisor |
-| !-! | なし |
+| !r2!頭 | Frosty Tooth |
+| !-! | Frosty Incisor |
+| 手 | なし |
 | !r2!足 | Frosty Scale |
 | !-! | Fractured Icetalon |
 | !r2!尻尾 | Severed Tailplate |
@@ -36,7 +36,7 @@ title: Pangar
 | !r3!頭 | Icy Browplate |
 | !-! | Frost Tooth |
 | !-! | Polar Incisor |
-| !r3!足 | Cracked Frostplate |
+| !r3!手足 | Cracked Frostplate |
 | !-! | Icetalon |
 | !-! | Frozen Hindplate |
 | !r3!尻尾 | Cracked Tailplate |
