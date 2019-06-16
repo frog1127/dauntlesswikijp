@@ -15,7 +15,7 @@ title: Koshai
 | 部位 | 名称 |
 | --- | --- |
 | !r2!全身 | Aether Thorn |
-| !-!! | Vital Thorn |
+| !-! | Vital Thorn |
 | !r3!角 | Splintered Antler |
 | !-! | Broken Antler |
 | !-! | Imposing Antler |
