@@ -19,7 +19,7 @@ https://www.dauntless-builder.com/b/jBUjzTJCaLUR4CPc4CNT4TXTwTajuNCAVHqFkCjFeS8C
 
 [Molten](https://dauntlesswikijp.llism.net/data/%E3%83%91%E3%83%BC%E3%82%AF/#molten)はベヒモス周辺に撒いておく事で自身の攻撃速度アップや、Blaze属性の対応策として利用しよう。
 
-ベヒモスに張り付いて連続した攻撃を浴びせる立ち回りになるので、序盤はチャージ攻撃やGrim Onslaughtを多用してバフを獲得しよう。
+ベヒモスに張り付いて連続した攻撃を浴びせる立ち回りになるので、序盤はチャージ攻撃や特殊アクションを多用してバフを獲得しよう。
 
 # 改造案
 
