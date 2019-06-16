@@ -37,14 +37,14 @@ PC: Q
 PS4: R1
 Xbox: RB
 
-### Grim Onslaught
+### Flight of Ruin
 
 初期装備。
 斧をブーメランのように投げつける。
 斧投げ中にもう一度特殊アクションを行う事で強力な叩きつけを出せる。
 特殊ゲージがMAXの時に特殊アクションを当てる事で、攻撃力上昇のバフを得られる。
 
-### Flight of Ruin
+### Grim Onslaught
 
 Axe Mastery Lv8 で習得可能。
 斧を直線的に投げつける。
