@@ -14,7 +14,7 @@ title: Skraev
 | 部位 | 名称 |
 | --- | --- |
 | 頭 | Shattered Frostbeak |
-| 頭 | !r3!Skraev Feather |
+| 頭 | :!r3!Skraev Feather: |
 | 足 | !-! |
 | 羽 | !-! |
 | 尻尾 | Skraev Tailfeather |
