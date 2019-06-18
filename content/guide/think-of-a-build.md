@@ -31,7 +31,7 @@ title: Think of a build
 ヘリオン　[Molten](/data/パーク/#molten)　Power
 
 足
-カラバク　[Conduit](/data/パーク/#conduit)　Power
+カラバク　[Conditioning](/data/パーク/#conditioning)　Power
 コシャイ　[Predator](/data/パーク/#predator)　Utility
 リフト　[Conduit](/data/パーク/#conduit)　Mobility
 
