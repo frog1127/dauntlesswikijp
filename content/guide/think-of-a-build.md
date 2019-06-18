@@ -2,8 +2,8 @@
 title: Think of a build
 ---
 頭
-ボレアス　[Conduit](/data/パーク/#conduit)　Utility
-エンバー　[Eversive Fury](/data/パーク/#eversive-fury)　Mobility
+ボレアス　[Conditioning](/data/パーク/#conditioning)　Utility
+エンバー　[Evasive Fury](/data/パーク/#evasive-fury)　Mobility
 レザ　[Conduit](/data/パーク/#conduit)　Technique
 雷犬　[Energized](/data/パーク/#energized)　Technique
 リフト　[Aetheric Attunement](/data/パーク/#aetheric-attunement)　Utility
@@ -17,13 +17,13 @@ title: Think of a build
 ストーカー　[Conduit](/data/パーク/#conduit)　Utility
 コシャイ　[Predator](/data/パーク/#predator)　Utility
 レザ　[Cunning](/data/パーク/#cunning)　Utility
-エンバー　[Eversive Fury](/data/パーク/#eversive-fury)　Mobility
+エンバー　[Evasive Fury](/data/パーク/#evasive-fury)　Mobility
 雷犬　[Energized](/data/パーク/#energized)e　Mobility
 ドラスク　[Aetheric Attunement](/data/パーク/#aetheric-attunement)　Power
 
 手
-カラバク　[Conduit](/data/パーク/#conduit)　Mobility
-コシャイ　[Eversive Fury](/data/パーク/#eversive-fury)　Power
+カラバク　[Conditioning](/data/パーク/#conditioning)　Mobility
+コシャイ　[Evasive Fury](/data/パーク/#evasive-fury)　Power
 ザガ　[Aetheric Attunement](/data/パーク/#aetheric-attunement)　Utility
 豚　[Barbed](/data/パーク/#barbed)　Technique
 レザ　[Conduit](/data/パーク/#conduit)　Technique
@@ -31,11 +31,12 @@ title: Think of a build
 ヘリオン　[Molten](/data/パーク/#molten)　Power
 
 足
-カラバク　[Conduit](/data/パーク/#conduit)　Power
+カラバク　[Conditioning](/data/パーク/#conditioning)　Power
 コシャイ　[Predator](/data/パーク/#predator)　Utility
 リフト　[Conduit](/data/パーク/#conduit)　Mobility
 
------
+
+-----
 槍
 TTU
 レザ　[Cunning](/data/パーク/#cunning)　Technique　Utility
@@ -46,31 +47,26 @@ UTP
 ドラスク　[Aetheric Attunement](/data/パーク/#aetheric-attunement)　Technique　Power
 グナッシャー　[Ragehunter](/data/パーク/#ragehunter)　Technique　Utility
 PPP
-ヘリオン　[Oberpower](/data/パーク/#oberpower)　Power　Power
+ヘリオン　[Overpower](/data/パーク/#overpower)　Power　Power
 M+
 雷犬　[Energized](/data/パーク/#energized)　Technique　Mobility
-エンバー　[Eversive Fury](/data/パーク/#eversive-fury)　Technique　Mobility
+エンバー　[Evasive Fury](/data/パーク/#evasive-fury)　Technique　Mobility
 シュライク　[Conduit](/data/パーク/#conduit)　Technique　Mobility
 スクリーブ　Nimble　Technique　Mobility
 
-----
-[Acidic](/data/パーク/#acidic)
-[Barbed](/data/パーク/#barbed)
-[Savagery](/data/パーク/#savagery)
-
+----[Acidic](/data/パーク/#acidic)[Barbed](/data/パーク/#barbed)[Savagery](/data/パーク/#savagery)
 [Energized](/data/パーク/#energized)
 
 [Knockout King](/data/パーク/#knockout-king)
 
 [Aetheric Attunement](/data/パーク/#aetheric-attunement)
 
-[Conduit](/data/パーク/#conduit)
-[Eversive Fury](/data/パーク/#eversive-fury)
+[Conduit](/data/パーク/#conduit)[Evasive Fury](/data/パーク/#evasive-fury)
 [Molten](/data/パーク/#molten)
 [Wild Frenzy](/data/パーク/#wild-frenzy)
 
 [Ragehunter](/data/パーク/#ragehunter)
-[Oberpower](/data/パーク/#oberpower)
+[Overpower](/data/パーク/#overpower)
 
 [Predator](/data/パーク/#predator)
 [Cunning](/data/パーク/#cunning)
