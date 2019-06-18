@@ -26,7 +26,7 @@ title: Think of a build
 コシ　[Evasive Fury](/data/パーク/#evasive-fury)　Power
 雷鰐　[Aetheric Attunement](/data/パーク/#aetheric-attunement)　Utility
 豚猪　[Barbed](/data/パーク/#barbed)　Technique
-蜻蛉　[Conduit](/data/パーク/#conduit)　Technique
+レザ　[Conduit](/data/パーク/#conduit)　Technique
 怒尾　[Ragehunter](/data/パーク/#ragehunter)　Power
 ヘリ　[Molten](/data/パーク/#molten)　Power
 
