@@ -54,9 +54,9 @@ M+
 スクリーブ　Nimble　Technique　Mobility
 
 ----
-[Acidic](/data/パーク/#acidic)採用
-[Barbed](/data/パーク/#barbed)bed
-[Savagery](/data/パーク/#savagery)agery
+[Acidic](/data/パーク/#acidic)
+[Barbed](/data/パーク/#barbed)
+[Savagery](/data/パーク/#savagery)
 
 [Energized](/data/パーク/#energized)
 
@@ -64,7 +64,7 @@ M+
 
 [Aetheric Attunement](/data/パーク/#aetheric-attunement)
 
-[Conduit](/data/パーク/#conduit)uit
+[Conduit](/data/パーク/#conduit)
 [Eversive Fury](/data/パーク/#eversive-fury)
 [Molten](/data/パーク/#molten)
 [Wild Frenzy](/data/パーク/#wild-frenzy)
