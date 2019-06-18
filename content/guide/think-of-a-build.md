@@ -54,24 +54,35 @@ M+
 シュライク　[Conduit](/data/パーク/#conduit)　Technique　Mobility
 スクリーブ　Nimble　Technique　Mobility
 
-----[Acidic](/data/パーク/#acidic)[Barbed](/data/パーク/#barbed)[Savagery](/data/パーク/#savagery)
-[Energized](/data/パーク/#energized)
-
-[Knockout King](/data/パーク/#knockout-king)
-
+----
+速度
 [Aetheric Attunement](/data/パーク/#aetheric-attunement)
-
 [Conduit](/data/パーク/#conduit)[Evasive Fury](/data/パーク/#evasive-fury)
 [Molten](/data/パーク/#molten)
 [Wild Frenzy](/data/パーク/#wild-frenzy)
 
+ダメージ上昇　シチュエーション
 [Ragehunter](/data/パーク/#ragehunter)
 [Overpower](/data/パーク/#overpower)
 
+ダメージ上昇　常時
+[Cunning](/data/パーク/#cunning)
 [Predator](/data/パーク/#predator)
-[Cunning](/data/パーク/#cunning)
 
+スタミナ
+[Conditioning](/data/パーク/#conditioning)
+[Agility](/data/パーク/#agility)
+
+Stagger
+[Knockout King](/data/パーク/#knockout-king)
+
+メーター上昇
+[Energized](/data/パーク/#energized)
+
+CBインタラプト
 [Weighted Strikes](/data/パーク/#weighted-strikes)
 
-[Conduit](/data/パーク/#conduit)
-[Agility](/data/パーク/#agility)
+槍
+[Acidic](/data/パーク/#acidic)
+[Barbed](/data/パーク/#barbed)
+[Savagery](/data/パーク/#savagery)
