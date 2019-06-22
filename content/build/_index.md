@@ -15,13 +15,16 @@ title: ビルド集
 ## Axe
 
 * [Max Speed Axe](/build/axe-max-speed-axe)
-* [Iceborne版最速ビルドでtoo easy](https://dauntlesswikijp.llism.net/build/axe-iceborn%E7%89%88%E6%9C%80%E9%80%9F%E3%83%93%E3%83%AB%E3%83%89%E3%81%A7too-easy/)
 
 ## War Pike
 
 * [汎用Stalker's Spikeビルド](/build/warpike-汎用stalkers-spikeビルド)
 * [Storm Pike 突進ビルド](/build/warpike-突進メイン用-storm-pikeビルド)
 * [Spire of Dawn 刺突ビルド](/build/warpike-spire-of-dawn-刺突ビルド)
+
+## Anything
+
+* [Iceborne版最速ビルドでtoo easy](https://dauntlesswikijp.llism.net/build/axe-iceborn%E7%89%88%E6%9C%80%E9%80%9F%E3%83%93%E3%83%AB%E3%83%89%E3%81%A7too-easy/)
 
 ## Ostian Repeaters
 
