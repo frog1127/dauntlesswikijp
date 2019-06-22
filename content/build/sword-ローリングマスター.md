@@ -19,9 +19,7 @@ https://www.dauntless-builder.com/b/XjUnH4C36TAIoc5UMT5TeTxTLhYCvOiRTwCLNCAi0C85
 
 ランタンチャージ出来たら[Conduit](https://dauntlesswikijp.llism.net/data/%E3%83%91%E3%83%BC%E3%82%AF/#conduit)で味方の役に立とう
 
-[Conditioning](https://dauntlesswikijp.llism.net/data/%E3%83%91%E3%83%BC%E3%82%AF/#conditioning)はスタミナ回復の手助け、[Molten](https://dauntlesswikijp.llism.net/data/%E3%83%91%E3%83%BC%E3%82%AF/#molten)は火属性の対応策として使おう
-
-
+[Conditioning](https://dauntlesswikijp.llism.net/data/%E3%83%91%E3%83%BC%E3%82%AF/#conditioning)はスタミナ回復の手助け、[Molten](https://dauntlesswikijp.llism.net/data/%E3%83%91%E3%83%BC%E3%82%AF/#molten)はBlaze属性の対応策として使おう
 
 スタミナが持つ限り、ドッジスルーしてから回避攻撃を当てる事の繰り返し。普通に切ってても火力は出る。
 
