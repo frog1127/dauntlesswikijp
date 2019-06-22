@@ -4,6 +4,7 @@ title: ビルド集
 ## Sword
 
 * [移動速度バフ全盛り](https://dauntlesswikijp.llism.net/build/sword-%E7%A7%BB%E5%8B%95%E9%80%9F%E5%BA%A6%E3%83%90%E3%83%95%E5%85%A8%E7%9B%9B%E3%82%8A/)
+* [ローリングマスター](https://dauntlesswikijp.llism.net/build/sword-%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/)
 
 ## Hammer
 
