@@ -1,5 +1,5 @@
 ---
-title: '[axe] Iceborne版最速ビルドでtoo easy'
+title: '[anything] Iceborne版最速ビルドでtoo easy'
 ---
 # ビルド
 
@@ -7,7 +7,7 @@ https://www.dauntless-builder.com/b/jBUjzTJCaLUR4CPc4CNT4TXTwTajuNCAVHqFkCjFeS8C
 
 # コンセプト
 
-コンボの終盤に火力が集中しがちな[Axe](https://dauntlesswikijp.llism.net/basic/axe)のため、攻撃を最後まで当てきる事に重点を置いたビルド
+攻撃を最後まで当てきる事に重点を置いたビルド
 
 [Riftstalker](https://dauntlesswikijp.llism.net/behemoth/riftstalker/)の武器なら何でも応用可能
 
@@ -19,7 +19,7 @@ https://www.dauntless-builder.com/b/jBUjzTJCaLUR4CPc4CNT4TXTwTajuNCAVHqFkCjFeS8C
 
 [Molten](https://dauntlesswikijp.llism.net/data/%E3%83%91%E3%83%BC%E3%82%AF/#molten)はベヒモス周辺に撒いておく事で自身の攻撃速度アップや、Blaze属性の対応策として利用しよう。
 
-ベヒモスに張り付いて連続した攻撃を浴びせる立ち回りになるので、序盤はチャージ攻撃や特殊アクションを多用してバフを獲得しよう。
+常にベヒモスに張り付いて連続した攻撃を浴びせる立ち回りになる。
 
 # 改造案
 
